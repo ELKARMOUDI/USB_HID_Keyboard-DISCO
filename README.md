@@ -4,6 +4,7 @@
 ![USB](https://img.shields.io/badge/USB-HID_Keyboard-2496ED?logo=usb&logoColor=white)
 ![HAL](https://img.shields.io/badge/STM32-HAL_Library-03234B?logo=stmicroelectronics)
 
+![BFEE5AF6-5B92-4060-BFC3-6C82D1C010E6_1_105_c](https://github.com/user-attachments/assets/77085677-584e-405d-8764-d9902ea89b98)
 
 
 ## Key Features
