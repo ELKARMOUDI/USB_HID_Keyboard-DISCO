@@ -15,6 +15,7 @@
 - 📝 **8-byte HID report** format (modifiers + keycodes)
 - 🔄 **Debounced input** with 50ms delay
 
+
 ## Hardware Setup
 | Function       | Pin  | Board Location | Badge |
 |----------------|------|----------------|-------|
